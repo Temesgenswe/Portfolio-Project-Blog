@@ -11,3 +11,11 @@ Software Development
 In this digitalization era, transforming the way organizations doing their business and delivering their business needs to align with the current global need. We offer a business solutions, developing web based software and mobile apps based on the requirements. 
 Consultancy Services 
 We provide professional consultancy services in the technology sector for your personal or organizational needs. 
+
+We have also different services in gCODE Technologies
+![Services](https://github.com/Temesgenswe/Portfolio-Project-Blog/assets/101357503/c925e049-0441-48ab-9f2e-864a138fe196)
+
+
+our Profesionals
+
+![Team members](https://github.com/Temesgenswe/Portfolio-Project-Blog/assets/101357503/1b5cf87a-dbd8-4c96-9cdc-d37496a55bad)
